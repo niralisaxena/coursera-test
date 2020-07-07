@@ -1,0 +1,68 @@
+body
+{
+	background-image:url('image/pic3.jpg');
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	margin:0;
+}
+
+.navbar
+{
+	font-family:Lato;
+	width:100%;
+	overflow:auto;
+	background-color:#44BD49;
+}
+
+.navbar a
+{
+	font-family:Lato;
+	float:left;
+	padding:20px;
+	color:white;
+	text-decoration:none;
+	font-size:20px;
+	width:30.5%;
+	text-align:center;
+}
+
+.navbar a:hover
+{
+	background-color:gray;
+}
+
+h1
+{
+	color:white;
+	font-size:50px;
+	font-family:lato;
+	padding-left:40%;
+	padding-top:5%;
+}
+
+h2
+{
+	color:white;
+	font-family:lato;
+	font-size:30px;
+	padding-left:45%;
+}
+
+h3
+{
+	color:white;
+	font-family:lato;
+	font-size:20px;
+	padding-left:45%;
+}
+
+.footer
+{
+	position:fixed;
+	bottom:0;
+	width:100%;
+	background-color:#6BBE30;
+	color:white;
+	text-align:center;
+	font-size:15px;
+} 

@@ -1,0 +1,62 @@
+body
+{
+	background-image:url('image/pic2.png');
+	background-repeat:no-repeat;  
+	background-size:100% 100%;
+	margin:0;
+}
+
+.sidenav
+{
+	height:100%;
+	width:150px;
+	position:fixed;
+	background-color:#148DFE;
+	overflow:hidden;
+	padding:30px;
+}
+
+.sidenav a
+{
+	padding:16px 8px 8px 18px;
+	font-size:25px;
+	text-decoration:none;
+	color:white;
+	display:block;
+}
+
+.sidenav a:hover
+{
+	color:#91FFFF;
+}
+
+.container
+{
+	text-align:center;
+	padding-top:45px;
+	padding-left:100px;
+	font-size:20px;
+}
+
+.container h1
+{
+	padding-top:140px;
+	color:white;
+}
+
+.container h3
+{
+	padding-top:45px;
+	color:white;
+}
+
+.footer
+{
+	position:fixed;
+	bottom:0;
+	width:100%;
+	background-color:#6BBE30;
+	color:white;
+	text-align:center;
+	font-size:15px;
+}
